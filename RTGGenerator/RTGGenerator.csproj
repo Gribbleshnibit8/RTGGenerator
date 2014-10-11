@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ModuleGeneratorRTGSimple.cs" />
     <Compile Include="ModuleGeneratorRTG.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
